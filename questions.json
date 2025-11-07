@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "question": "What is the main purpose of React Native?",
+    "answers": [
+      "To build native mobile apps using JavaScript",
+      "To build backend servers",
+      "To style HTML pages",
+      "To manage SQL databases"
+    ],
+    "correct": 0,
+    "category": "react-native",
+    "difficulty": "easy"
+  },
+  {
+    "id": 2,
+    "question": "Which core component is used to create scrollable content?",
+    "answers": ["ScrollView", "ListView", "Container", "Section"],
+    "correct": 0,
+    "category": "react-native",
+    "difficulty": "easy"
+  },
+  {
+    "id": 3,
+    "question": "What does Expo provide?",
+    "answers": [
+      "A set of APIs and tools on top of React Native",
+      "Only build system for Android",
+      "Swift/Kotlin compiler",
+      "SQL database engine"
+    ],
+    "correct": 0,
+    "category": "expo",
+    "difficulty": "easy"
+  },
+  {
+    "id": 4,
+    "question": "Which hook is used to manage component state in React Native?",
+    "answers": ["useState", "useEffect", "useMemo", "useRef"],
+    "correct": 0,
+    "category": "react-native",
+    "difficulty": "easy"
+  },
+  {
+    "id": 5,
+    "question": "What is the correct way to style components?",
+    "answers": [
+      "Using StyleSheet.create()",
+      "Using CSS files",
+      "Using HTML style attribute",
+      "Using jQuery"
+    ],
+    "correct": 0,
+    "category": "react-native",
+    "difficulty": "medium"
+  },
+  {
+    "id": 6,
+    "question": "What is the purpose of useEffect?",
+    "answers": [
+      "To run side effects after render",
+      "To update styles",
+      "To fetch CSS files",
+      "To restart the component"
+    ],
+    "correct": 0,
+    "category": "react",
+    "difficulty": "medium"
+  },
+  {
+    "id": 7,
+    "question": "Which navigation library is most commonly used in React Native?",
+    "answers": [
+      "React Navigation",
+      "Next.js Router",
+      "Vue Router",
+      "Angular Router"
+    ],
+    "correct": 0,
+    "category": "react-native",
+    "difficulty": "easy"
+  },
+  {
+    "id": 8,
+    "question": "Which command starts an Expo project?",
+    "answers": [
+      "npx expo start",
+      "npm run dev",
+      "expo init",
+      "npx react-native run"
+    ],
+    "correct": 0,
+    "category": "expo",
+    "difficulty": "easy"
+  },
+  {
+    "id": 9,
+    "question": "What does React Native compile to?",
+    "answers": [
+      "Native platform components",
+      "HTML elements",
+      "jQuery DOM",
+      "PHP templates"
+    ],
+    "correct": 0,
+    "category": "react-native",
+    "difficulty": "medium"
+  },
+  {
+    "id": 10,
+    "question": "Which component is more performant for long lists?",
+    "answers": ["FlatList", "ScrollView", "View", "Section"],
+    "correct": 0,
+    "category": "react-native",
+    "difficulty": "medium"
+  },
+  {
+    "id": 11,
+    "question": "What is Metro in React Native?",
+    "answers": [
+      "A JavaScript bundler",
+      "A navigation library",
+      "A CSS engine",
+      "A data storage tool"
+    ],
+    "correct": 0,
+    "category": "react-native",
+    "difficulty": "hard"
+  },
+  {
+    "id": 12,
+    "question": "Which command creates a new Expo project?",
+    "answers": [
+      "npx create-expo-app",
+      "expo generate",
+      "expo new",
+      "npm expo create"
+    ],
+    "correct": 0,
+    "category": "expo",
+    "difficulty": "easy"
+  },
+  {
+    "id": 13,
+    "question": "What is the purpose of useRef in React Native?",
+    "answers": [
+      "To store mutable values without re-rendering",
+      "To fetch data",
+      "To create animations",
+      "To update styles"
+    ],
+    "correct": 0,
+    "category": "react",
+    "difficulty": "hard"
+  },
+  {
+    "id": 14,
+    "question": "Which file contains the app entry point in Expo?",
+    "answers": ["App.js", "index.html", "main.ts", "main.css"],
+    "correct": 0,
+    "category": "expo",
+    "difficulty": "easy"
+  },
+  {
+    "id": 15,
+    "question": "What is a key requirement when rendering lists?",
+    "answers": [
+      "Providing unique 'key' props",
+      "Using only FlatList",
+      "Enabling animations",
+      "Writing inline styles"
+    ],
+    "correct": 0,
+    "category": "react",
+    "difficulty": "medium"
+  }
+]
